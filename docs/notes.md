@@ -26,3 +26,4 @@ Notes and usage details for exercises-c-teaching-manual-hong-4e.
 - add a note about the defaults
 - link the usage section
 - fix a small wording issue
+- fix a small wording issue
