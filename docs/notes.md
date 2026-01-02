@@ -30,3 +30,4 @@ Notes and usage details for exercises-c-teaching-manual-hong-4e.
 - link the usage section
 - fix a small wording issue
 - clarify the setup steps
+- add a note about the defaults
