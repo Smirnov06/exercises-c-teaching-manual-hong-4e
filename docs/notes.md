@@ -48,3 +48,4 @@ Notes and usage details for exercises-c-teaching-manual-hong-4e.
 - clarify the setup steps
 - clarify the setup steps
 - fix a small wording issue
+- link the usage section
