@@ -52,3 +52,4 @@ Notes and usage details for exercises-c-teaching-manual-hong-4e.
 - clarify the setup steps
 - add a note about the defaults
 - link the usage section
+- link the usage section
